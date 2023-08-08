@@ -1,0 +1,83 @@
+0 verbose cli [ '/usr/bin/node', '/usr/bin/npm', 'install' ]
+1 info using npm@8.5.1
+2 info using node@v12.22.9
+3 timing npm:load:whichnode Completed in 1ms
+4 timing config:load:defaults Completed in 2ms
+5 timing config:load:file:/usr/share/nodejs/npm/npmrc Completed in 21ms
+6 timing config:load:builtin Completed in 22ms
+7 timing config:load:cli Completed in 2ms
+8 timing config:load:env Completed in 0ms
+9 timing config:load:file:/var/lib/jenkins/workspace/jenkinsmaster/.npmrc Completed in 0ms
+10 timing config:load:project Completed in 6ms
+11 timing config:load:file:/home/ubuntu/.npmrc Completed in 0ms
+12 timing config:load:user Completed in 0ms
+13 timing config:load:file:/etc/npmrc Completed in 0ms
+14 timing config:load:global Completed in 0ms
+15 timing config:load:validate Completed in 0ms
+16 timing config:load:credentials Completed in 3ms
+17 timing config:load:setEnvs Completed in 2ms
+18 timing config:load Completed in 39ms
+19 timing npm:load:configload Completed in 39ms
+20 timing npm:load:setTitle Completed in 0ms
+21 timing config:load:flatten Completed in 4ms
+22 timing npm:load:display Completed in 7ms
+23 verbose logfile /home/ubuntu/.npm/_logs/2023-07-30T10_38_25_716Z-debug-0.log
+24 timing npm:load:logFile Completed in 8ms
+25 timing npm:load:timers Completed in 0ms
+26 timing npm:load:configScope Completed in 0ms
+27 timing npm:load Completed in 57ms
+28 timing arborist:ctor Completed in 1ms
+29 timing arborist:ctor Completed in 0ms
+30 timing idealTree:init Completed in 18ms
+31 timing idealTree:userRequests Completed in 1ms
+32 silly idealTree buildDeps
+33 timing idealTree:#root Completed in 0ms
+34 timing idealTree:buildDeps Completed in 2ms
+35 timing idealTree:fixDepFlags Completed in 0ms
+36 timing idealTree Completed in 23ms
+37 timing reify:loadTrees Completed in 24ms
+38 timing reify:diffTrees Completed in 1ms
+39 silly reify moves {}
+40 timing reify:retireShallow Completed in 0ms
+41 timing reify:createSparse Completed in 0ms
+42 timing reify:loadBundles Completed in 0ms
+43 silly audit report null
+44 timing reify:audit Completed in 1ms
+45 timing reify:unpack Completed in 0ms
+46 timing reify:unretire Completed in 0ms
+47 timing build:queue Completed in 0ms
+48 timing build:deps Completed in 1ms
+49 timing build Completed in 1ms
+50 timing reify:build Completed in 1ms
+51 timing reify:trash Completed in 0ms
+52 timing command:install Completed in 61ms
+53 verbose stack Error: EACCES: permission denied, open '/var/lib/jenkins/workspace/jenkinsmaster/package-lock.json'
+54 verbose cwd /var/lib/jenkins/workspace/jenkinsmaster
+55 verbose Linux 5.19.0-1025-aws
+56 verbose argv "/usr/bin/node" "/usr/bin/npm" "install"
+57 verbose node v12.22.9
+58 verbose npm  v8.5.1
+59 error code EACCES
+60 error syscall open
+61 error path /var/lib/jenkins/workspace/jenkinsmaster/package-lock.json
+62 error errno -13
+63 error [Error: EACCES: permission denied, open '/var/lib/jenkins/workspace/jenkinsmaster/package-lock.json'] {
+63 error   errno: -13,
+63 error   code: 'EACCES',
+63 error   syscall: 'open',
+63 error   path: '/var/lib/jenkins/workspace/jenkinsmaster/package-lock.json'
+63 error }
+64 error
+64 error The operation was rejected by your operating system.
+64 error It is likely you do not have the permissions to access this file as the current user
+64 error
+64 error If you believe this might be a permissions issue, please double-check the
+64 error permissions of the file and its containing directories, or try running
+64 error the command again as root/Administrator.
+65 verbose exit -13
+66 timing npm Completed in 962ms
+67 verbose unfinished npm timer reify 1690713506602
+68 verbose unfinished npm timer reify:save 1690713506653
+69 verbose code -13
+70 error A complete log of this run can be found in:
+70 error     /home/ubuntu/.npm/_logs/2023-07-30T10_38_25_716Z-debug-0.log
