@@ -40,3 +40,39 @@ sudo jekins-upgrade3
 sudo npm install
 sudo apt install docker.io
 vim dockerfile
+ls
+sudo apt update
+git --versiom
+git --version
+git init
+git clone https://github.com/LondheShubham153/django-tutorial.git
+ls
+git push origin master 
+git push origin
+git config --global user.name "mohamadshoheb073"
+git config --global user.email "mohamadshoheb073@gmail.com"
+git config --list
+git status
+git .
+git add .
+git status
+git commit -m "todo-djhango"
+git log
+git show e3b34839dcf6a2a
+clear
+git remote add origin https://github.com/mohamadshoheb073/django-todo.git
+git push -u origin master
+git clone https://github.com/mohamadshoheb073/django-todo.git
+git status
+git add .
+git clone https://github.com/LondheShubham153/harry-potter-invisibility-cloak.git
+ls
+git add harry-potter-invisibility-cloak
+ls
+git status
+git commit -m "harry potter clock "
+git log
+git remote add origin https://github.com/mohamadshoheb073/shoheb.git
+git push -u origin main https://github.com/mohamadshoheb073/shoheb.git
+git push -u origin master https://github.com/mohamadshoheb073/shoheb.git
+git push -u origin master 
