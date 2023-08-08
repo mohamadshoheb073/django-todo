@@ -97,3 +97,14 @@ git show c647b6cd539d21537b937d8fbed10daa2f95d263
 git push -u origin master
 git push -u orgin master
 git push -u origin master 
+sudo apt install
+git init
+git config --global user.name "mohamadshoheb073"
+git config --global user.email "mohamadshoheb073@gmail.com"
+git config --list
+git status
+git log
+git satus
+git status
+git clone https://github.com/LondheShubham153/node-todo-cicd.git 
+git push origin master 
