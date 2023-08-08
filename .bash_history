@@ -76,3 +76,24 @@ git remote add origin https://github.com/mohamadshoheb073/shoheb.git
 git push -u origin main https://github.com/mohamadshoheb073/shoheb.git
 git push -u origin master https://github.com/mohamadshoheb073/shoheb.git
 git push -u origin master 
+sudo apt install
+git --version
+git init
+git status
+git config --global user.name "mohamadshoheb07"
+git config --global user.name "mohamadshoheb03"
+git config --global user.name "mohamadshoheb073"  
+git congig --global user.email "mohamadshoheb073@gmail.com" 
+git config --global user.name "mohamadshoheb073"
+git config --global user.email "mohamadshoheb073@gmail.com"
+git config --list
+git status
+git add .
+git commit -m "1st commit from shubham"
+git status
+git clone https://github.com/LondheShubham153/devops-batch-4.git
+git show
+git show c647b6cd539d21537b937d8fbed10daa2f95d263
+git push -u origin master
+git push -u orgin master
+git push -u origin master 
