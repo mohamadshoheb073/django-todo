@@ -108,3 +108,257 @@ git satus
 git status
 git clone https://github.com/LondheShubham153/node-todo-cicd.git 
 git push origin master 
+sudo apt update
+git init 
+git congig --global user.name "mohamadshoheb073"
+git config --global user.name "mohamadshoheb073"
+git config --global user.email "mohamadshoheb073@gmail.com"
+git congif --list
+git config --list
+git status
+git add .
+git status
+git log
+git commit -m "my 1st commit with shubham"
+git log
+git clone https://github.com/LondheShubham153/node-todo-cicd.git
+git puch origin master 
+git push origin master 
+git branch
+git branch branch1
+git branch
+git 
+git branch
+ls
+mkdir shoheb
+lsc
+git checkout master
+ls
+git status
+git branch
+git branch sahil
+git branch
+git checkout sahil 
+git branch 
+ll
+ls
+rm -rf
+ls
+rm -rf *
+ls 
+git status
+mkdir myapp
+git status
+git add .
+git commit -m "myChanges-sahil"
+git status
+git branch
+git checkout master 
+ls
+git checkout branch1 
+ls
+git status
+mkdir shoaib
+ls
+git add 
+git add .
+git commit -m "changes-sho"
+git status
+git checkout master 
+ls
+git branch
+git checkout branch1 
+git branch 
+ls
+rm -rm *
+ls
+rm -rf *
+ls
+mkdir shoaib
+ls
+git status
+git add .
+git commit -m "changes Dhoasivbasldjkbv"
+git status
+git branch
+git checkout master 
+ls
+git checkout branch1 
+ls
+cd shoaib
+touch file2 
+ls
+cd ..
+ls
+git checkout branch1 
+git checkout master 
+ls
+cd shoaib/
+ls
+git checkout branch1 
+cd s
+ls
+cd 
+git checkout branch1
+git checkout master 
+ls
+mkdir amrit 
+ls
+git status
+git add .
+git status
+git commit -m "my change with aamrit
+
+
+
+
+git commit -m "my 1st changes with amrit"
+ls
+git checkout master
+ls
+git checkout sahil
+ls
+mkdir sahil
+ls
+git status
+git add .
+git commit -m "my 1st change with sahil "
+ls
+git status
+git checkout branch1
+ls
+git checkout master
+ls
+git branch 
+ls
+git status
+git log 
+git log --oneline
+git show e6a268b
+git checkout branch1 
+ls
+git status
+mkdir sohel
+cd sohel/
+touch file 1
+ls
+rm -rf 1
+ls
+cd ..
+ls
+git add sohel/
+git status
+git commit -m "commit by amrut"
+git checkout master 
+ls
+git checkout sahil
+ls
+git checkout master
+ping localhost
+git branch 
+ls
+git checkout sahil 
+ls
+git checkout master 
+ls
+git merge sahil 
+git status
+ls
+git branch 
+git checkout sahil 
+ls
+git checkout master 
+git branch 
+ls
+rm -rf *
+ls
+git clone https://github.com/LondheShubham153/node-todo-cicd.git
+ls
+rm -rf node-todo-cicd/
+pwd
+git clone https://github.com/LondheShubham153/node-todo-cicd.git
+pwd
+ls
+cd node-todo-cicd/
+pwd
+git branch
+git branch sahil
+git branch
+git checkout 
+git checkout sahil 
+git branch
+vi sahil/file1.txt
+sudo vi sahi/file1
+ls
+vi file1
+ls
+cat file1 
+git status
+git add .
+git commit -m "sahil push"
+git status
+git branch master 
+git branch 
+git checkout master 
+git branch 
+ls
+git merge sahil 
+ls
+git status
+git checkout 
+git checkout sahil 
+ls
+rm -rf *
+git status
+sudo vi sahilfile1
+cat sahilfile1 
+git add .
+git commit -m "updat shfbasduf"
+git checkout master 
+git status
+git branch
+git checkout 
+ls
+git branch
+ls
+git checkout sahil
+ls
+git merge master 
+git status
+git log
+git status
+ls
+git branch
+git checkout master 
+ls
+cat file1 
+vi file1 
+git branch
+git status
+git add file1 
+git commit -m "merge conflict"
+git checkout sahil
+ls
+vi file1
+git status
+git add file1 
+git status
+git commit -m "merge confict1"
+git checkout master 
+ls
+git merge sahil
+vi file1 
+cat file1 
+git stash
+git branch
+git status
+git add .
+git commit -m "my 1st commit "
+ls
+git statud
+git status
+git checkout master
+ls
+git stash
+git stash list
+ls
